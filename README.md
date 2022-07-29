@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @dandk105
-- 👀 I’m interested in ... command line tools. And container App
-- 🌱 I’m currently learning ... Rust and Golang to understand a low level arhitecture of cpu
+- 👋 どうも @dandk105　です
+- 👀 興味あるのは ...  コンテナアプリケーションと、OS領域に近いプログラミングです
+- 🌱 最近勉強している言語は ... Rust、Golang
+- ☁️ よく開発している環境はGCPです
 
 
 <!---
